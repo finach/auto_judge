@@ -18,6 +18,7 @@ Reference system include ZeroJudge, LeetCode, etc.
 | c290    | Difference odd and even in one number                      | [![][LP]](/zerojudge/c290.py) |
 | c294    | Judge what type of triangle can be formed by three numbers | [![][LP]](/zerojudge/c294.py) |
 | c461    | Binary operations                                          | [![][LP]](/zerojudge/c461.py) |
+| d673    | List calculating and using                                 | [![][LP]](/zerojudge/d673.py) |
 | e286    | Summarize result of basketball game from numbers           | [![][LP]](/zerojudge/e286.py) |
 | f312    | Enumerate numbers in N and find maximum from a formular    | [![][LP]](/zerojudge/f312.py) |
 | f579    | Numbers comparison and statistics                          | [![][LP]](/zerojudge/f579.py) |
