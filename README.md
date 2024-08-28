@@ -6,6 +6,18 @@
 This is a repository to store source code that how to solve auto judge problems.
 Reference system include ZeroJudge, LeetCode, etc.
 
+## LeetCode
+All LeetCode solutions are verified using `pytest`, ensuring easier validation of examples provided on the official LeetCode website.
+You can easily verify the solutions by running the following command in your terminal:
+```bash
+pytest -vs <filename>.py
+```
+
+| Problem | Title                                                      | Language                                               |
+|---------|------------------------------------------------------------|--------------------------------------------------------|
+| 1       | Two Sum                                                    | [![][LP]](/leetcode/1_two_sum.py)                      |
+
+
 ## ZeroJudge
 
 | Problem | Title                                                      | Language                      |
