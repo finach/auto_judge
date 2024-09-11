@@ -16,6 +16,7 @@ pytest -vs <filename>.py
 | Problem | Title                                                      | Language                                               |
 |---------|------------------------------------------------------------|--------------------------------------------------------|
 | 1       | Two Sum                                                    | [![][LP]](/leetcode/1_two_sum.py)                      |
+| 3       | Longest Substring Without Repeating Characters             | [![][LP]](/leetcode/3_length_of_longest_substring.py)  |
 
 
 ## ZeroJudge
