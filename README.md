@@ -18,6 +18,7 @@ pytest -vs <filename>.py
 | 1       | Two Sum                                                    | [![][LP]](/leetcode/1_two_sum.py)                      |
 | 3       | Longest Substring Without Repeating Characters             | [![][LP]](/leetcode/3_length_of_longest_substring.py)  |
 | 11      | Container With Most Water                                  | [![][LP]](/leetcode/11_max_area.py)                    |
+| 26      | Remove Duplicates from Sorted Array                        | [![][LP]](/leetcode/26_remove_duplicates.py)           |
 
 
 ## ZeroJudge
