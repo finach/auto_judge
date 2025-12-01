@@ -13,12 +13,12 @@ You can easily verify the solutions by running the following command in your ter
 pytest -vs <filename>.py
 ```
 
-| Problem | Title                                                      | Language                                               |
-|---------|------------------------------------------------------------|--------------------------------------------------------|
-| 1       | Two Sum                                                    | [![][LP]](/leetcode/1_two_sum.py)                      |
-| 3       | Longest Substring Without Repeating Characters             | [![][LP]](/leetcode/3_length_of_longest_substring.py)  |
-| 11      | Container With Most Water                                  | [![][LP]](/leetcode/11_max_area.py)                    |
-| 26      | Remove Duplicates from Sorted Array                        | [![][LP]](/leetcode/26_remove_duplicates.py)           |
+| Problem | Title                                                      | Language                                                     |
+|---------|------------------------------------------------------------|--------------------------------------------------------------|
+| 00001   | Two Sum                                                    | [![][LP]](/leetcode/00001_two_sum.py)                        |
+| 00003   | Longest Substring Without Repeating Characters             | [![][LP]](/leetcode/00003_length_of_longest_substring.py)    |
+| 00011   | Container With Most Water                                  | [![][LP]](/leetcode/00011_max_area.py)                       |
+| 00026   | Remove Duplicates from Sorted Array                        | [![][LP]](/leetcode/00026_remove_duplicates.py)              |
 
 
 ## ZeroJudge
